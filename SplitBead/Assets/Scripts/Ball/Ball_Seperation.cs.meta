@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: a85ec909bf4d48145aa6d7116434e930
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ball: {instanceID: 0}
+  - crashSound: {fileID: 8300000, guid: 135da251d9d15334488b3be3cefdf5fa, type: 3}
+  - seperationSound: {fileID: 8300000, guid: 23e5757bb7dd7784f950b7d65068c5bc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

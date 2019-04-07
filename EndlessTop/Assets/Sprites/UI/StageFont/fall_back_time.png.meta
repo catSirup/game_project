@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: edf6a257f6e0c7b488ada6358ea0dc6e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fall_back_time
+    21300002: fall_back_time_0
+    21300004: fall_back_time_1
+    21300006: fall_back_time_2
+    21300008: fall_back_time_3
+    21300010: fall_back_time_4
+    21300012: fall_back_time_5
+    21300014: fall_back_time_6
+    21300016: fall_back_time_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fall_back_time_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 706
+        width: 146
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fall_back_time_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 606
+        width: 146
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fall_back_time_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 506
+        width: 146
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fall_back_time_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 406
+        width: 146
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fall_back_time_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 307
+        width: 145
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fall_back_time_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 207
+        width: 145
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fall_back_time_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 107
+        width: 143
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fall_back_time_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 143
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Start
+  - Gotcha
+  - Character
+  - Store
+  - Exit
+  - Explanation
+  - Obstacles
+  - Bullet
+  - Develop
+  - Obstacle
+  - Restart
+  - CharacterStore
+  - GotoMain
+  - System
+  - Coin
+  - Basic
+  - Cube
+  - Redbull
+  - BrownOwl
+  - SilverOwl
+  - Dragon
+  - Tobacco
+  - MoneyBug
+  - HealingCat
+  - Lamp
+  - Epic
+  - Yee
+  - OpticalDragon
+  - KC
+  - Big
+  - Small
+  - Star
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

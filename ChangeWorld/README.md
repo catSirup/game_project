@@ -2,7 +2,7 @@
 
 ![Change World preview][1]
 
-[1]: https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/13413732_873351619461056_7083056217210098146_n.jpg?_nc_cat=107&_nc_ht=scontent-icn1-1.xx&oh=e9c19f6ee395510f88b135e49656d773&oe=5C45D5CD (preview)
+[1]: .Screenshot/1.png
 
 ## 1. 프로젝트 정보
 

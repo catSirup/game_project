@@ -2,7 +2,7 @@
 
 ![Change World preview][1]
 
-[1]: .Screenshot/1.png
+[1]: ./Screenshot/1.png
 
 ## 1. 프로젝트 정보
 
